@@ -1,11 +1,12 @@
 # Machine Learning Project 
-*Appuntamento dal medico: studio sulle assenze dei pazienti alle visite mediche*
+*Progetto del corso Machine Learning (Laurea magistrale Data Science)*
 
 <p align="center">
   <img width="250" height="250" src="https://assets-global.website-files.com/5dbaff870775d463028fd16a/5dea3c4332586a461f4fbd42_imageedit_5_5331037711.jpg">
 </p>
 
-_**Abstract**_
+_**Abstract**_ <br />
+*Appuntamento dal medico: studio sulle assenze dei pazienti alle visite mediche*
 
 Fissato un appuntamento dal medico, è possibile prevedere se un paziente si presenterà o meno in base ai suoi dati anagrafici, clinici e al tempo che dovrà 
 aspettare prima della data stabilita? Questa domanda vuole essere il punto di partenza del nostro studio che, cercando di prevedere le possibili assenze dei 
