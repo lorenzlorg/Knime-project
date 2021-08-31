@@ -2,7 +2,7 @@
 *Appuntamento dal medico: studio sulle assenze dei pazienti alle visite mediche*
 
 <p align="center">
-  <img width="550" height="200" src="https://storage.googleapis.com/kaggle-datasets-images/792/1472/8853c0b4591bba14e29305fcaa29f2f9/dataset-original.jpg">
+  <img width="250" height="250" src="https://assets-global.website-files.com/5dbaff870775d463028fd16a/5dea3c4332586a461f4fbd42_imageedit_5_5331037711.jpg">
 </p>
 
 _**Abstract**_
